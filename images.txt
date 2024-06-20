@@ -5,3 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 redis
+canal/canal-server
+apache/rocketmq
+xuxueli/xxl-job-admin:2.3.1
+jenkins/jenkins
+
