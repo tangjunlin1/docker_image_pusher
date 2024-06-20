@@ -1,16 +1,10 @@
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 redis
-canal/canal-server
 apache/rocketmq
 xuxueli/xxl-job-admin:2.3.1
 jenkins/jenkins
 elasticsearch:7.3.1
 nacos/nacos-server:2.2.3
-mysql:5.7.37
 mysql:8.4.0
+canal/canal-server:v1.1.4
 
