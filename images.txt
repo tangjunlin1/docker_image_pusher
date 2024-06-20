@@ -1,11 +1,2 @@
-nginx
-redis
-apache/rocketmq
-xuxueli/xxl-job-admin:2.3.1
-jenkins/jenkins
-elasticsearch:7.3.1
-nacos/nacos-server:v2.3.2
-nacos/nacos-server:v2.3.2-slim
-mysql:8.4.0
-canal/canal-server:v1.1.4
+bitnami/kafka:3.3
 
