@@ -11,3 +11,6 @@ xuxueli/xxl-job-admin:2.3.1
 jenkins/jenkins
 elasticsearch:7.3.1
 nacos/nacos-server:2.2.3
+mysql:5.7.37
+mysql:8.4.0
+mysql
